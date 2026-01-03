@@ -67,6 +67,7 @@ section {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+/*
 #hero {
   width: 100%;
   height: 100vh;
@@ -133,7 +134,7 @@ section {
 #hero .btn-scroll:hover {
   color: #18d26e;
 }
-
+*/
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
